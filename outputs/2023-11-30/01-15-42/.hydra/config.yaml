@@ -1,0 +1,15 @@
+infer:
+  pose2d: null
+  pose3d: human3d
+  pose2d_weights: null
+  pose3d_weights: null
+  device: null
+  det_model: null
+  det_weights: null
+  det_cat_ids: null
+input:
+  path: webcam
+output:
+  draw_heatmap: null
+  out_dir: output
+show: true

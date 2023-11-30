@@ -1,0 +1,15 @@
+infer:
+  pose2d: animal
+  pose3d: null
+  pose2d_weights: null
+  pose3d_weights: null
+  device: null
+  det_model: null
+  det_weights: null
+  det_cat_ids: null
+input:
+  path: https://st.depositphotos.com/1521357/2978/i/950/depositphotos_29787629-stock-photo-fish.jpg
+output:
+  draw_heatmap: null
+  out_dir: output
+show: true
